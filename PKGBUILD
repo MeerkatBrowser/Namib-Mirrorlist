@@ -1,5 +1,5 @@
 pkgname=namib-mirrorlist
-pkgver=17.11
+pkgver=18.02
 pkgrel=1
 pkgdesc="Namib GNU/Linux mirror list for use by pacman"
 arch=('any')
