@@ -4,6 +4,5 @@
 ##
 
 
-Server=https://namibrepo.meerkat.tk/$arch
-#Server=https://namibtesting.meerkat.tk/$arch
+Server=https://namibrepo.meerkat.tk/$repo
 
