@@ -14,6 +14,6 @@ package() {
   install -m644 $srcdir/namibmirror $pkgdir/etc/pacman.d/
 }
 
-md5sums=('6f6ba5f42521b5f47666040b08b3a065')
+md5sums=('6141c2c9a06508a5f1ee1c19b9df0000')
 
 
