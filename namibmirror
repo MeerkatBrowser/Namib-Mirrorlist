@@ -1,8 +1,6 @@
 ##
-## Nmaib GNU/Linux repository mirrorlist
-## Generated on 2017-09-22
+## Namib GNU/Linux repository mirrorlist
 ##
 
 
-Server=https://namibrepo.meerkat.tk/$repo
-
+Server=https://mirror.namiblinux.org/repo/$repo
